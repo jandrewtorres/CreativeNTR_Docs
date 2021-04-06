@@ -7,7 +7,6 @@
 
 ## Guides
 
-* [Guides](guides/guides/README.md)
-  * [Developer's Guide](guides/guides/development.md)
-  * [Getting Started: Embedding into Existing Website](guides/guides/how-to-embed-into-existing-website.md)
+* [Getting Started: Embedding into Existing Website](guides/how-to-embed-into-existing-website.md)
+* [Developer's Guide](guides/development.md)
 
