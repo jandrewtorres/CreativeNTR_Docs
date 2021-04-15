@@ -6,5 +6,5 @@ description: >-
 
 # Bug Report
 
-Bug Report Form
+[Bug Report Form](https://docs.google.com/forms/d/e/1FAIpQLSdxsseeChPUXJrn_m13XkZHyBnZEb1QBNVzFG6JU-azoqPXdg/viewform?usp=sf_link)
 

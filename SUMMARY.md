@@ -4,6 +4,7 @@
 * [Install](install.md)
 * [How to Use](how-to-use.md)
 * [Bug Report](reporting-bugs.md)
+* [EULA and Privacy Policy](eula-and-privacy-policy.md)
 * [Demo](demo.md)
 * [Future Work](future-work.md)
 * [Contact Us](contact-us.md)
