@@ -11,6 +11,3 @@
 
 ## Guides
 
-* [Getting Started: Embedding into Existing Website](guides/how-to-embed-into-existing-website.md)
-* [Developer's Guide](guides/development.md)
-

@@ -12,7 +12,7 @@ Nathan Irwin: nmirwin@calpoly.edu
 
 Tanner McCormack: tmccorma@calpoly.edu
 
-John Torres: 
+John Torres: jtorr103@calpoly.edu
 
 
 
