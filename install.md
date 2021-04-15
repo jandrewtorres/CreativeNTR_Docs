@@ -6,7 +6,7 @@ description: Instructions on how to download and install CreativeNTR's annotator
 
 ## Instructions
 
-1. Download and unzip content [file](http://users.csc.calpoly.edu/~sjaques/CreativeNTR.zip).
+1. Download and unzip content [file](http://users.csc.calpoly.edu/~sjaques/build.zip).
 2. Go to chrome://extensions/ in Google Chrome. \(Extensions settings\).
 
    _Note: If you have the “real” Hypothesis extension installed you will need to remove it from Chrome before loading your locally built one or create a new Chrome profile without the real one installed._
