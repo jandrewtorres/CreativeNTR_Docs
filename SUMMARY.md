@@ -7,6 +7,7 @@
 * [EULA and Privacy Policy](eula-and-privacy-policy.md)
 * [Demo](demo.md)
 * [Future Work](future-work.md)
+* [Limitations](limitations.md)
 * [Contact Us](contact-us.md)
 
 ## Guides
